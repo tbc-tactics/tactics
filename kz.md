@@ -39,7 +39,7 @@
 ## Netherspite
 - 2 BoJ
 
-## Chess Event
+## Chess Event
 - 2 BoJ
 
 ## Prince Malchezaar
