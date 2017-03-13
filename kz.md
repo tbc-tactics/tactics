@@ -59,3 +59,6 @@ Po dosažení 25% HP nasedne jezdec na koně, zároveň dojde k resetu threatu -
 
 ## Nightbane
 - 2 BoJ
+
+# Mapa
+(images/kz-map.jpg)
