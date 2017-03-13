@@ -61,4 +61,4 @@ Po dosažení 25% HP nasedne jezdec na koně, zároveň dojde k resetu threatu -
 - 2 BoJ
 
 # Mapa
-![mapa](images/kz-map.jpg)
+[![mapa](images/kz-map.jpg)](images/kz-map.jpg)
