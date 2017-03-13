@@ -38,6 +38,21 @@ Po dosažení 25% HP nasedne jezdec na koně, zároveň dojde k resetu threatu -
 
 ## Opera Event
 - 2 BoJ
+- jsou tři možné varianty bossů
+
+### 1. Red Riding Hood
+Postačí jeden tank, boss dává plošný fear, dobře poslouží Tremor Totem od shamana. Občas někoho (non-melee) promění v červenou karkulku, hodí na něj debuff Little Red Riding Hood, a začne honit. Hráč musí utíkat dokola celého jeviště, po skončení debuffu se boss vrátí na tanka. Některé classy se tomu mohou vyhnout - rogue s Vanish, hunter s Feign Dead, případně může paladin na červenou karkulku hodit Blessing of Protection.
+
+### 2. Wizzard of Oz
+- boj má dvě fáze
+
+#### 1. fáze
+Spawnou se čtyři mobky - Dorothee (ještě vyvolá mobku Tito), Roar, Strawman a Tinhead. Jediný boss, kterého je nutné tankovat je Tinhead - toho si nabere MT. Dorothee musí být co nejrychleji zabita - svůj target si vybírá náhodně, Tito se může nechat na pokoji. Roar do fearu a zabít naposled. Strawman - toho tankuje někdo s fire spelly - mage, warlock nebo shaman - pouze postačí spamovat fire spelly.
+
+#### 2. fáze
+Po zabití všech mobek s první fáze se vyvolá boss The Crone. Pouze ho nabere MT.
+
+### 3. Romulo and Julianne
 
 ## The Curator
 - 2 BoJ, T4 hands token
